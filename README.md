@@ -3,8 +3,6 @@
 
 - 🚀 **Eager to merge creativity and code by partnering on innovative React projects! Let's build something amazing together.**
 
-- 👨‍💻 All of my projects are available at [https://kashiivirus.web.app/](https://kashiivirus.web.app/)
-
 - 💬 Ask me about **React, Vue, Next, Node JS & Three JS**
 
 - 📫 How to reach me **kashif.zzy@gmail.com**
