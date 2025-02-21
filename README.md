@@ -35,7 +35,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/kashifalirajper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://github.com/Kashifalirajper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
-  <a href="mailto:kashif.zzy@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.freepik.com/512/8109/8109673.png" alt="Email" height="30" width="40" /></a>
+  <a href="mailto:kashifrajperali@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.freepik.com/512/8109/8109673.png" alt="Email" height="30" width="40" /></a>
 </p>
 
 ---
