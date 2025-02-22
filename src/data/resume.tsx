@@ -151,8 +151,9 @@ export const DATA = {
       href: "https://sayeagle.com/",
       dates: "Jan 2023 - Nov 2023",
       active: true,
-      description:
-        "SayEagle is a comprehensive property management platform that streamlines operations for managers, admins, tenants, and vendors. It offers real-time data management, secure authentication, and an intuitive user experience.",
+      description: `SayEagle is a comprehensive property management platform that streamlines operations for managers, admins, tenants, and vendors. It offers real-time data management, secure authentication, and an intuitive user experience. 
+- **Email:** kashif.zzy@gmail.com  
+- **Password:** kashif123  `,
       technologies: [
         "React",
         "Node.js",
@@ -225,5 +226,5 @@ export const DATA = {
       image: "/rev.png",
       video: "",
     },
-  ]
+  ],
 } as const;
