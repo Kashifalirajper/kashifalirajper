@@ -117,7 +117,7 @@ export const DATA = {
   projects: [
     {
       title: "Easy Travel Planner",
-      href: "https://easy-trave-planner.vercel.app/",
+      href: "https://easy-travel-planner.vercel.app/",
       dates: "Feb 2025",
       active: true,
       description:
