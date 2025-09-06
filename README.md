@@ -4,18 +4,56 @@
 - 💻 **Frontend & Full Stack Developer with 4+ years of experience**, specializing in **React.js, Vue.js, Next.js, and Node.js**.  
 - 🚀 **Industry Expertise:** Retail, Nonprofit, IT, Construction, Manufacturing, and Digital Platforms.  
 - 🛠 **Core Stack:** React, Vue, Nuxt, Next.js, Node.js, Tailwind CSS, Firebase, MongoDB, SQL/MySQL.  
-- 🎯 **Collaboration & Leadership:** Leading cross-functional teams, mentoring juniors, managing GitHub workflows, and delivering scalable solutions.  
-- 📈 **Currently:**  
-  - **Full Stack Developer (Team Lead)** at **Appvertices** – building scalable applications, APIs, and mentoring teams.  
-  - Contributed to **LLM training for Mercor Intelligence**, fine-tuning AI for web development tasks.  
-  - Developed **Compass (Forsit)** – a Vue Nuxt **sales tracking platform** for Amazon, Walmart, Qoo10 & Shopify.  
-- 🎖️ **Achievements:** Employee of the Month (Futurealiti, 2022).  
+- 🎯 **Leadership & Collaboration:** Leading teams, mentoring juniors, managing GitHub workflows, and delivering scalable solutions.  
+- 🎖️ **Recognition:** Employee of the Month (Futurealiti, 2022).  
+
+---
+
+### 💼 **Work Experience**
+
+#### **Full Stack Developer (Team Lead) – Appvertices** *(Jul 2025 – Present)*  
+- Leading a team to build **scalable full-stack applications** with React, Next.js, Node.js, and MongoDB.  
+- Designing APIs, overseeing architecture, code quality, and deployments.  
+- Mentoring juniors, conducting reviews, and fostering best engineering practices.  
+- Coordinating with product managers and UI/UX for business-aligned features.  
+
+---
+
+#### **Web Development & Design Expert – Mercor Intelligence** *(Mar 2025 – Jun 2025, Remote)*  
+- Trained and fine-tuned **Large Language Models (LLMs)** for frontend & full-stack tasks.  
+- Developed custom prompts and pipelines for React, Vue, and Next.js.  
+- Collaborated with AI researchers to align model output with real-world workflows.  
+- Built reference implementations and documentation for LLM training.  
+
+---
+
+#### **Frontend Developer – Sohomax (Forsit)** *(Oct 2023 – Jan 2025, Remote)*  
+- Developed **Compass (Vue Nuxt)** – sales tracking app for Amazon, Qoo10, Walmart, Shopify.  
+- Built **responsive components** with React, Tailwind CSS, react-query, and yup resolver.  
+- Worked on **web scraping** with Node.js & Puppeteer for TikTok, Amazon, etc.  
+- Delivered user-friendly, responsive designs with optimized APIs.  
+
+---
+
+#### **Full Stack Developer – SayEagle** *(Jan 2023 – Nov 2023)*  
+- Built **SayEagle** (AppFolio-like Property Management System) with portals for admins, tenants, vendors.  
+- Frontend in **React.js**, backend with **Node.js & Firebase Functions**.  
+- Managed real-time data with Firebase Firestore & authentication.  
+- Mentored juniors and collaborated with designers & PMs for seamless delivery.  
+
+---
+
+#### **Full Stack Developer – Futurealiti (Appsnation)** *(Apr 2021 – Dec 2022)*  
+- Developed **task management** and **employee monitoring systems**.  
+- Contributed to **CNBC frontend dashboards**.  
+- Designed client-side & server-side architecture.  
+- Built **mobile-responsive features**, managed databases, and optimized applications.  
 
 ---
 
 ### 🏆 **Projects & Contributions**
 🚀 **[Compass (Forsit)](https://compass.forsit.co.kr/)** – Vue Nuxt **sales tracking app** (Amazon, Qoo10, Walmart, Shopify).  
-🤖 **Mercor Intelligence** – Contributed to **training & fine-tuning LLMs** for frontend & full-stack coding tasks.  
+🤖 **Mercor Intelligence** – Contributed to **LLM fine-tuning for web development tasks**.  
 🏢 **[SayEagle](https://sayeagle.com/)** – Property Management System (React, Node.js, Firebase).  
 📊 **[CNBC Project (Futurealiti)](https://www.cnbc.com/)** – Frontend development for dashboards.  
 🌎 **[Easy Travel Planner](https://easy-travel-planner.vercel.app/)** – AI-powered trip planner using Gemini API.  
