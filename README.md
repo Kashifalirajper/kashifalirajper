@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kashif Ali</h1>
 <h3 align="center">Frontend & Full Stack Developer | Team Lead | AI-driven Development</h3>
 
-- 💻 **Frontend & Full Stack Developer with 4+ years of experience**, specializing in **React.js, Vue.js, Next.js, and Node.js**.  
+- 💻 **Frontend & Full Stack Developer with 5+ years of experience**, specializing in **React.js, Vue.js, Next.js, and Node.js**.  
 - 🚀 **Industry Expertise:** Retail, Nonprofit, IT, Construction, Manufacturing, and Digital Platforms.  
 - 🛠 **Core Stack:** React, Vue, Nuxt, Next.js, Node.js, Tailwind CSS, Firebase, MongoDB, SQL/MySQL.  
 - 🎯 **Leadership & Collaboration:** Leading teams, mentoring juniors, managing GitHub workflows, and delivering scalable solutions.  
