@@ -1,93 +1,142 @@
-<h1 align="center">Hi 👋, I'm Kashif Ali</h1>
-<h3 align="center">Frontend & Full Stack Developer | Team Lead | AI-driven Development</h3>
+<div align="center">
+  <img src="./public/me.jpg" alt="Kashif Ali" width="140" style="border-radius: 50%;" />
+  <h1>👋 Hi, I'm Kashif Ali</h1>
+  <h3>🚀 Full Stack & AI Engineer | React • Next.js • React Native • SaaS</h3>
 
-- 💻 **Frontend & Full Stack Developer with 5+ years of experience**, specializing in **React.js, Vue.js, Next.js, and Node.js**.  
-- 🚀 **Industry Expertise:** Retail, Nonprofit, IT, Construction, Manufacturing, and Digital Platforms.  
-- 🛠 **Core Stack:** React, Vue, Nuxt, Next.js, Node.js, Tailwind CSS, Firebase, MongoDB, SQL/MySQL.  
-- 🎯 **Leadership & Collaboration:** Leading teams, mentoring juniors, managing GitHub workflows, and delivering scalable solutions.  
-- 🎖️ **Recognition:** Employee of the Month (Futurealiti, 2022).  
-
----
-
-### 💼 **Work Experience**
-
-#### **Full Stack Developer (Team Lead) – Appvertices** *(Jul 2025 – Present)*  
-- Leading a team to build **scalable full-stack applications** with React, Next.js, Node.js, and MongoDB.  
-- Designing APIs, overseeing architecture, code quality, and deployments.  
-- Mentoring juniors, conducting reviews, and fostering best engineering practices.  
-- Coordinating with product managers and UI/UX for business-aligned features.  
+  <p>
+    <a href="https://kashifalirajper.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://github.com/kashifalirajper"><img src="https://img.shields.io/badge/GitHub-kashifalirajper-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+    <a href="https://www.linkedin.com/in/kashifalirajper/"><img src="https://img.shields.io/badge/LinkedIn-Kashif%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:kashifrajperali@gmail.com"><img src="https://img.shields.io/badge/Email-kashifrajperali%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  </p>
+</div>
 
 ---
 
-#### **Web Development & Design Expert – Mercor Intelligence** *(Mar 2025 – Jun 2025, Remote)*  
-- Trained and fine-tuned **Large Language Models (LLMs)** for frontend & full-stack tasks.  
-- Developed custom prompts and pipelines for React, Vue, and Next.js.  
-- Collaborated with AI researchers to align model output with real-world workflows.  
-- Built reference implementations and documentation for LLM training.  
+## 🧑‍💻 About Me
+- 💼 **5+ years** of experience delivering production-ready web & mobile apps.
+- 🧠 Building **AI-powered products** (chatbots, voice agents, LLM workflows).
+- 🏗️ Strong in **system design, clean architecture, and scalable SaaS engineering**.
+- 🤝 Team Lead mindset: mentoring developers, code reviews, and shipping with quality.
 
 ---
 
-#### **Frontend Developer – Sohomax (Forsit)** *(Oct 2023 – Jan 2025, Remote)*  
-- Developed **Compass (Vue Nuxt)** – sales tracking app for Amazon, Qoo10, Walmart, Shopify.  
-- Built **responsive components** with React, Tailwind CSS, react-query, and yup resolver.  
-- Worked on **web scraping** with Node.js & Puppeteer for TikTok, Amazon, etc.  
-- Delivered user-friendly, responsive designs with optimized APIs.  
+## ⚒️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,ts,js,nodejs,express,tailwind,firebase,mongodb,mysql,git,github,vercel,figma" alt="Tech Stack Icons"/>
+</p>
+
+- **Frontend:** React.js, Next.js, Vue.js, Nuxt.js, TypeScript, Tailwind CSS  
+- **Mobile:** React Native (iOS & Android)  
+- **Backend:** Node.js, Express.js, REST APIs  
+- **Databases:** MongoDB, Firebase, SQL/MySQL  
+- **AI & LLM:** OpenAI, Gemini, Prompt Engineering  
+- **Dev Workflow:** CI/CD, GitHub collaboration, performance optimization
 
 ---
 
-#### **Full Stack Developer – SayEagle** *(Jan 2023 – Nov 2023)*  
-- Built **SayEagle** (AppFolio-like Property Management System) with portals for admins, tenants, vendors.  
-- Frontend in **React.js**, backend with **Node.js & Firebase Functions**.  
-- Managed real-time data with Firebase Firestore & authentication.  
-- Mentored juniors and collaborated with designers & PMs for seamless delivery.  
+## 💼 Work Experience
+
+### 🏢 Appvertices — *Full Stack Developer (Team Lead)*
+📍 Karachi, Pakistan | 🗓️ **July 2025 – Present**
+- Leading full-stack web/mobile delivery with React.js, Next.js, React Native, and Node.js.
+- Architecting REST APIs and database systems across MongoDB, Firebase, and SQL.
+- Shipping apps to **Apple App Store** and **Google Play Store**.
+- Integrating AI chatbots and voice agents with OpenAI/Gemini.
+
+### 🤖 Mercor Intelligence — *Web Development & Design Expert*
+📍 Remote (Contract) | 🗓️ **March 2025 – June 2025**
+- Trained and fine-tuned LLMs for front-end and full-stack development workflows.
+- Improved code-generation quality for React, Vue, Next.js, Tailwind, Node.js, and TypeScript.
+- Built reference implementations and evaluation pipelines with AI researchers.
+
+### 🌐 Sohomax (Forsit) — *Frontend Developer*
+📍 South Korea · Remote | 🗓️ **October 2023 – January 2025**
+- Built Compass features using Vue/Nuxt for marketplaces like Amazon, Qoo10, Walmart, Shopify.
+- Developed responsive UI components with React, react-query, and Tailwind CSS.
+- Contributed to integrations and scraping workflows with Node.js + Puppeteer.
+
+### 🏠 SayEagle — *Full Stack Developer*
+📍 Karachi, Pakistan | 🗓️ **January 2023 – November 2023**
+- Built role-based property management platform for managers, admins, tenants, and vendors.
+- Delivered React frontend and backend services with Node.js + Firebase Functions.
+- Managed real-time data with Firestore and secure authentication.
+
+### 📊 Futurealiti (Appsnation) — *Full Stack Developer*
+📍 Karachi, Pakistan | 🗓️ **April 2021 – December 2022**
+- Built task management and employee monitoring solutions.
+- Contributed to CNBC front-end development and scalable architecture.
+- Enhanced performance and responsive UX across products.
 
 ---
 
-#### **Full Stack Developer – Futurealiti (Appsnation)** *(Apr 2021 – Dec 2022)*  
-- Developed **task management** and **employee monitoring systems**.  
-- Contributed to **CNBC frontend dashboards**.  
-- Designed client-side & server-side architecture.  
-- Built **mobile-responsive features**, managed databases, and optimized applications.  
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🧳 Easy Travel Planner</h3>
+      <img src="./public/etp.png" alt="Easy Travel Planner" width="100%"/>
+      <p>AI-powered trip planning app for budget-friendly stays and smart itinerary insights.</p>
+      <p><strong>Stack:</strong> React, Gemini API, Firebase, Tailwind, Shadcn UI, Magic UI</p>
+      <a href="https://easy-travel-planner.vercel.app/">🔗 Live</a> •
+      <a href="https://github.com/Kashifalirajper/easy-travel-planner">💻 Source</a>
+    </td>
+    <td width="50%">
+      <h3>🏢 SayEagle</h3>
+      <img src="./public/sayEagle-web.png" alt="SayEagle" width="100%"/>
+      <p>Property management platform with role-based portals and real-time operations.</p>
+      <p><strong>Stack:</strong> React, Node.js, Firebase, Firestore, Tailwind CSS</p>
+      <a href="https://sayeagle.web.app/">🔗 Live</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📰 CNBC Contribution</h3>
+      <img src="./public/cnbc.png" alt="CNBC" width="100%"/>
+      <p>Contributed to responsive front-end improvements for CNBC web experiences.</p>
+      <p><strong>Stack:</strong> React, JavaScript, Redux, REST APIs, Tailwind</p>
+      <a href="https://www.cnbc.com">🔗 Website</a>
+    </td>
+    <td width="50%">
+      <h3>💚 Revaiv</h3>
+      <img src="./public/rev.png" alt="Revaiv" width="100%"/>
+      <p>Health management app focused on hormonal symptom tracking and guidance.</p>
+      <p><strong>Stack:</strong> React.js, Firebase, Google Auth, Tailwind, Vercel</p>
+      <a href="https://revaiv.vercel.app/">🔗 Live</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🏆 **Projects & Contributions**
-🚀 **[Compass (Forsit)](https://compass.forsit.co.kr/)** – Vue Nuxt **sales tracking app** (Amazon, Qoo10, Walmart, Shopify).  
-🤖 **Mercor Intelligence** – Contributed to **LLM fine-tuning for web development tasks**.  
-🏢 **[SayEagle](https://sayeagle.com/)** – Property Management System (React, Node.js, Firebase).  
-📊 **[CNBC Project (Futurealiti)](https://www.cnbc.com/)** – Frontend development for dashboards.  
-🌎 **[Easy Travel Planner](https://easy-travel-planner.vercel.app/)** – AI-powered trip planner using Gemini API.  
+## 🎓 Education & Certifications
+- 🎓 **BS Computer Science** — Sindh Madressatul Islam University *(2017–2021)*
+- 🏅 **Frontend Developer (React)** — HackerRank *(2024)*
+- 🏅 **JavaScript (Intermediate)** — HackerRank *(2023)*
 
 ---
 
-### 🛠 **Languages & Tools**
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
+## 🏢 Companies & Platforms I've Worked With
+<p>
+  <img src="./public/appsnation.png" alt="Appsnation" height="44"/>
+  <img src="./public/mercor.jpeg" alt="Mercor" height="44"/>
+  <img src="./public/sohomax.png" alt="Sohomax" height="44"/>
+  <img src="./public/sayeagle.png" alt="SayEagle" height="44"/>
+  <img src="./public/cnbc.png" alt="CNBC" height="44"/>
 </p>
 
 ---
 
-### 🌐 **Connect with Me**
-<p align="left">
-  <a href="https://linkedin.com/in/kashifalirajper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://github.com/Kashifalirajper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a>
-  <a href="mailto:kashifrajperali@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.freepik.com/512/8109/8109673.png" height="30" width="40" /></a>
-</p>
+## 📫 Let’s Connect
+- ✉️ **Email:** [kashifrajperali@gmail.com](mailto:kashifrajperali@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/kashifalirajper](https://www.linkedin.com/in/kashifalirajper/)
+- 🌐 **Portfolio:** [kashifalirajper.vercel.app](https://kashifalirajper.vercel.app/)
+- 🧑‍💻 **GitHub:** [github.com/kashifalirajper](https://github.com/kashifalirajper)
 
 ---
 
-### 🎖 **Certifications**
-- **React Developer Certification** – [HackerRank, 2024](https://www.hackerrank.com/certificates/c9e3c15092b3)  
-- **JavaScript (Intermediate)** – [HackerRank, 2023](https://www.hackerrank.com/certificates/c4cbdd47a3c2)  
-- **Google Technical Support Fundamentals** – [Coursera, 2020](https://coursera.org/share/1f55e20e40c7110693029b4559cc37ec)  
-
----
-
-🚀 **Open to exciting opportunities in Frontend, Full Stack, or AI-integrated Web Development!** Let’s connect and build something amazing together. 🤝
+<div align="center">
+  <h3>✨ Open to Full Stack, Frontend, and AI-integrated product roles ✨</h3>
+</div>
