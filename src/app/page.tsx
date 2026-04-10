@@ -29,6 +29,15 @@ export default function Page() {
                 delay={BLUR_FADE_DELAY}
                 text={DATA.description}
               />
+              <div className="pt-2">
+                <a
+                  href="/Kashif-Ali-Resume.txt"
+                  download
+                  className="inline-flex items-center rounded-md bg-foreground px-4 py-2 text-sm font-medium text-background hover:opacity-90"
+                >
+                  Download Resume
+                </a>
+              </div>
             </div>
             <BlurFade delay={BLUR_FADE_DELAY}>
               <Avatar className="size-28 border">
