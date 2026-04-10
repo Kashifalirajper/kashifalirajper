@@ -31,7 +31,7 @@ export default function Page() {
               />
               <div className="pt-2">
                 <a
-                  href="/Kashif-Ali-Resume.txt"
+                  href="/resume.pdf"
                   download
                   className="inline-flex items-center rounded-md bg-foreground px-4 py-2 text-sm font-medium text-background hover:opacity-90"
                 >
