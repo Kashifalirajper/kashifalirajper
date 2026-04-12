@@ -66,12 +66,12 @@ export const DATA = {
 
   work: [
     {
-      company: "Appvertices",
-      href: "https://appvertices.io/",
+      company: "Elevatech Solutions",
+      href: "https://elevatechsol.com/",
       badges: [],
       location: "Karachi, Sindh, Pakistan",
       title: "Full Stack Developer (Team Lead)",
-      logoUrl: "/appsnation.png",
+      logoUrl: "/elevatech.png",
       start: "July 2025",
       end: "Present",
       description:
